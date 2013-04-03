@@ -26,6 +26,7 @@
 -(int) sub:(int) a
 {
     a--;
+    int b = 0;
     return a;
 }
 
